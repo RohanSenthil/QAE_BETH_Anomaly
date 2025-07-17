@@ -1,0 +1,7 @@
+Dataset/labelled*
+Dataset/*.csv
+Dataset/Transformed/*.csv
+Dataset/Transformed/Normalised/*.csv
+Dataset/*/*.csv
+Dataset/*/*/*.csv
+**/*.csv
