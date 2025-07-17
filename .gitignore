@@ -5,3 +5,4 @@ Dataset/Transformed/Normalised/*.csv
 Dataset/*/*.csv
 Dataset/*/*/*.csv
 **/*.csv
+.ipynb_checkpoints
